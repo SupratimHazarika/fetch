@@ -1,0 +1,38 @@
+.container{
+  background-color:#b8b5ff;
+  text-align: center;
+}
+.user_section{
+  text-align: center;
+}
+.single_user{
+  display: flex;
+  align-items: center;
+}
+
+.avatar{
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  padding: 10px;
+  object-fit: contain;
+}
+.first_name{
+  padding: 5px;
+ 
+}
+.last_name{
+
+}
+.buttons{
+  padding: 10px;
+}
+.buttons > button{
+  width: 50px;
+  height: 25px;
+  background-color:#7868e6;
+  border: none;
+  margin-left: 3px;
+  cursor: pointer;
+  border-radius: 5px;
+}
